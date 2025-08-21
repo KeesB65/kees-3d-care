@@ -1,0 +1,5 @@
+numpy
+scipy
+laspy
+tqdm
+opencv-python
